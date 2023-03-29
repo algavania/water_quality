@@ -1,0 +1,31 @@
+{
+  "splashText": "Measure the purity of your",
+  "water": "water with precision",
+  "myHistory": "My History",
+  "back": "Back",
+  "logout": "Logout",
+  "analyticsData": "Analytics data",
+  "gettingStarted": "Getting Started",
+  "apiKeyAuth": "Authentication",
+  "authText": "Authenticate your account by providing your meter name and password for login.",
+  "enterApiKey": "Enter Meter Name Here",
+  "enterPassword": "Enter Password Here",
+  "submit": "Submit",
+  "noInternet": "No Internet Connection",
+  "noInternetText": "You are not connected to the internet. Please check your network settings.",
+  "openSetting": "Open Setting",
+  "listNebulizer": "List of Water Quality",
+  "skip": "Skip",
+  "waterApp": "WaterApp",
+  "addNew": "Add New",
+  "addNewData": "Add New Data",
+  "addDataText": "You can add new data to your monitoring system",
+  "toolName": "Nama Alat",
+  "address": "Alamat",
+  "hintText": "Enter {hint} here",
+  "@hintText": {
+    "placeholders": {
+      "hint": {}
+    }
+  }
+}
